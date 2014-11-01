@@ -1,4 +1,0 @@
-cartpayinc
-==========
-
-Merchnat Account Provider
